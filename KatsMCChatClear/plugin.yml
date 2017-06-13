@@ -1,0 +1,9 @@
+name: KatsMCChatClear
+version: 1.0
+author: Jassy
+main: me.jassy.clearchat.Main
+commands:
+  clearchat:
+    description: Clears the chat!
+    usage: /<command>
+    aliases: [cc]
